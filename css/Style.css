@@ -1,0 +1,25 @@
+.FirstBlock
+{
+    height: 15%;
+    background-color: black;
+}
+.Header{
+    color: white;
+    padding: 0 0 20px 850px;
+    font-size: xx-large;
+}
+.assist{
+    color: black;
+    padding: 0 0 20px 400px;
+    font-size: large;
+    display: inline-block;
+}
+.product{
+    border: 1px solid black;
+    float: none;
+    display: inline-block;
+}
+.container_12 img
+{
+    max-width: 960px;
+}
