@@ -1,12 +1,10 @@
-.FirstBlock
-{
-    height: 15%;
-    background-color: black;
-}
+
 .Header{
-    color: white;
+    color:white;
     padding: 0 0 20px 850px;
     font-size: xx-large;
+    width: 100%;
+    background-color: black;
 }
 .assist{
     color: black;
