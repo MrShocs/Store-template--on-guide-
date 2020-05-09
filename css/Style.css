@@ -2,16 +2,22 @@ body
 {
     background-color: teal;
 }
-.Header{
+h1{
     color:white;
     font-size: xx-large;
+    width: 100%;
+    text-align: center;
     background-color: black;
+    padding: 0;
+    margin: 0;
 }
 .assist{
     color: black;
     font-size: large;
     display: inline-block;
     font-family: 'Balsamiq Sans', cursive;
+    background-color: rgb(255, 230, 0);
+
 
 }
 .product{
