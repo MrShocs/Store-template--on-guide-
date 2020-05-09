@@ -1,23 +1,28 @@
 
 .Header{
     color:white;
-    padding: 0 0 20px 850px;
     font-size: xx-large;
-    width: 110%;
+    width: 1100%;
     background-color: black;
+
 }
 .assist{
     color: black;
-    padding: 0 0 20px 400px;
     font-size: large;
     display: inline-block;
+    font-family: 'Balsamiq Sans', cursive;
+
 }
 .product{
     border: 1px solid black;
     float: none;
     display: inline-block;
 }
-.container_12 img
+.container_24 img
 {
-    max-width: 960px;
+    max-width: 200px;
+}
+.ProductName
+{
+    font-family: 'Josefin Sans', sans-serif;
 }
