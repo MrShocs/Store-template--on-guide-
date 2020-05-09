@@ -1,10 +1,11 @@
-
+body
+{
+    background-color: teal;
+}
 .Header{
     color:white;
     font-size: xx-large;
-    width: 1100%;
     background-color: black;
-
 }
 .assist{
     color: black;
@@ -21,6 +22,11 @@
 .container_24 img
 {
     max-width: 200px;
+}
+.container_24
+{
+    background-color: white;
+    height: 1000%;
 }
 .ProductName
 {
