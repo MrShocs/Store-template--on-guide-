@@ -1,6 +1,6 @@
 body
 {
-    background-color: teal;
+    background-color: white;
 }
 h1{
     color:white;
@@ -17,8 +17,7 @@ h1{
     display: inline-block;
     font-family: 'Balsamiq Sans', cursive;
     background-color: rgb(255, 230, 0);
-
-
+    width: 152%;
 }
 .product{
     border: 1px solid black;
@@ -27,7 +26,7 @@ h1{
 }
 .container_24 img
 {
-    max-width: 200px;
+    max-width: 150px;
 }
 .container_24
 {
@@ -37,4 +36,32 @@ h1{
 .ProductName
 {
     font-family: 'Josefin Sans', sans-serif;
+}
+.ground
+{
+    background-color: yellow;;
+}
+.banner
+{
+    margin: 5% 0 5% 0;
+    border-radius: 20px;
+    background-color:#10F0F0;
+    height: 200px;
+    width: 100%;
+}
+.productReclam
+{
+    border:5px solid #480607;
+    margin: 5% 0 5% 0;
+    height: 200px;
+}
+.input 
+{
+    margin: 1% ;
+    border-right:5px solid black;
+
+}
+.input img 
+{
+    width: 310px;
 }
