@@ -16,30 +16,19 @@ h1{
     font-size: large;
     display: inline-block;
     font-family: 'Balsamiq Sans', cursive;
-    background-color: rgb(255, 230, 0);
-    width: 152%;
 }
 .product{
-    border: 1px solid black;
+    border: 1px solid black;    
     float: none;
     display: inline-block;
 }
-.container_24 img
-{
-    max-width: 150px;
-}
-.container_24
+.container_24 
 {
     background-color: white;
-    height: 1000%;
 }
 .ProductName
 {
     font-family: 'Josefin Sans', sans-serif;
-}
-.ground
-{
-    background-color: yellow;;
 }
 .banner
 {
@@ -48,20 +37,26 @@ h1{
     background-color:#10F0F0;
     height: 200px;
     width: 100%;
+    display: inline-block;
+    font-size:90px;
+    font-family: 'Shadows Into Light', cursive;
+
 }
 .productReclam
 {
     border:5px solid #480607;
     margin: 5% 0 5% 0;
-    height: 200px;
+    height: 168px;
 }
 .input 
 {
-    margin: 1% ;
-    border-right:5px solid black;
-
+    border-right:10px solid black;
 }
-.input img 
+.input2
 {
-    width: 310px;
+    background-color: yellow;
+}
+.productList
+{
+    height: 10000px;
 }
