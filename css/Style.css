@@ -29,6 +29,7 @@ h1{
 .ProductName
 {
     font-family: 'Josefin Sans', sans-serif;
+    text-overflow: ellipsis;
 }
 .banner
 {
@@ -59,4 +60,11 @@ h1{
 .productList
 {
     height: 10000px;
+}
+.ProductName a
+{
+        text-decoration:none; /*Убираем стандартное подчёркивание ссылки если оно ещё не убрано*/
+        display: inline-block; /*делаем чтобы наша ссылка из строчного элемента превратилась в строчно-блочный */
+        line-height: 1; /*Задаём высоту строки (можно в пикселях)*/
+        color:#2F73B6;/*Задаём цвет ссылки*/
 }
